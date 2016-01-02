@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 #Valoracion de Peliculas
-gem 'ratyrate'
+gem 'ratyrate', :github => 'wazery/ratyrate'
 #Cambio de nombre
 gem 'rename'
 #Usuarios
