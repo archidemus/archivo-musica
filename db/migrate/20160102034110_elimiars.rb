@@ -1,4 +1,4 @@
-class Elimiar < ActiveRecord::Migration
+class Elimiars < ActiveRecord::Migration
   def change
   	drop_table :rating_caches
   	drop_table :rates
